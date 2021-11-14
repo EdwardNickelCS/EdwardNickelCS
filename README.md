@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdwardNickelCS
 - 👀 I’m interested in embedded software development
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning C++ and Assembly language
 - 💞️ I’m not looking to collaborate at this time.
 - 📫 Reach me via LinkedIn
 
